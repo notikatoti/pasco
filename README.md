@@ -5,6 +5,7 @@
   - HTML
   - CSS
   - Bootstrap 3
+  - GitHub Pages
 
 #### See the working website on GitHub Pages [Pasco](https://notikatoti.github.io/pasco/)
 
